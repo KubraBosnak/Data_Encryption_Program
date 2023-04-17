@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\bin\Debug\Data_Encryption_Program.exe.config
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\bin\Debug\Data_Encryption_Program.exe
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\bin\Debug\Data_Encryption_Program.pdb
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\obj\Debug\Data_Encryption_Program.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\obj\Debug\Data_Encryption_Program.Form1.resources
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\obj\Debug\Data_Encryption_Program.Properties.Resources.resources
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\obj\Debug\Data_Encryption_Program.csproj.GenerateResource.cache
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\obj\Debug\Data_Encryption_Program.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\obj\Debug\Data_Encryption_Program.exe
+C:\Users\Kübra\source\GitHub\Data_Encryption_Program\Data_Encryption_Program\Data_Encryption_Program\obj\Debug\Data_Encryption_Program.pdb
